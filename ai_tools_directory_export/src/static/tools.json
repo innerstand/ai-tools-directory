@@ -1,0 +1,1202 @@
+[
+    {
+        "name": "IBM Watson Discovery",
+        "description": "Advanced data mining and business intelligence",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Palantir Foundry",
+        "description": "Enterprise data integration and analysis platform",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Microsoft Power BI with AI",
+        "description": "Business intelligence with predictive analytics",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Tableau with Einstein AI",
+        "description": "Visual analytics with AI-powered insights",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Dataiku",
+        "description": "End-to-end data science and ML platform",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Obviously AI",
+        "description": "No-code predictive analytics and decision support",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Faraday",
+        "description": "Customer prediction platform for growth",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Akkio",
+        "description": "Easy-to-use predictive analytics for business decisions",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Qlik Sense",
+        "description": "Business intelligence with augmented analytics",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Board",
+        "description": "Decision-making platform with planning and analytics",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Crayon",
+        "description": "Competitive intelligence and market analysis",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Pathmatics",
+        "description": "Digital marketing intelligence platform",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Kompyte",
+        "description": "Competitor tracking and analysis",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Klue",
+        "description": "Competitive intelligence automation",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Contify",
+        "description": "Market and competitive intelligence platform",
+        "department": "Strategic Planning & Decision Making",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Adobe Sensei",
+        "description": "AI-powered creative and marketing tools",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Persado",
+        "description": "AI content generation optimized for marketing",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Phrasee",
+        "description": "AI-powered copywriting for campaigns",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Acrolinx",
+        "description": "Content governance and optimization platform",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "MarketMuse",
+        "description": "AI content planning and optimization",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Jasper",
+        "description": "AI content creation and marketing copy",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Copy.ai",
+        "description": "Marketing copy and content generation",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Lately",
+        "description": "Social media content creation and management",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Grammarly Business",
+        "description": "Writing assistance and brand consistency",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Simplified",
+        "description": "All-in-one content creation platform",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Writesonic",
+        "description": "Client-specific content generation",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Anyword",
+        "description": "Data-driven copywriting with predictive analytics",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "GatherContent",
+        "description": "Content operations platform",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Hemingway Editor",
+        "description": "Content clarity and readability tool",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Frase",
+        "description": "SEO content optimization and research",
+        "department": "Marketing & Content Creation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Salesforce Einstein",
+        "description": "CRM with AI-powered insights and automation",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Genesys DX",
+        "description": "AI-powered digital customer experience platform",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "NICE Enlighten",
+        "description": "Customer interaction analytics",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Qualtrics XM",
+        "description": "Experience management with predictive insights",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Verint",
+        "description": "Customer engagement platform with analytics",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Intercom",
+        "description": "Customer messaging with AI capabilities",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Zendesk AI",
+        "description": "Customer support automation",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Tidio",
+        "description": "Live chat and chatbots for websites",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Freshworks CRM",
+        "description": "AI-enhanced customer relationship management",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Drift",
+        "description": "Conversational marketing and sales platform",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Sprinklr",
+        "description": "Unified customer experience management",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Khoros",
+        "description": "Customer engagement platform for agencies",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Birdeye",
+        "description": "Reputation management and customer experience",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Podium",
+        "description": "Customer interaction platform",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Kustomer",
+        "description": "Customer service CRM platform",
+        "department": "Customer Experience & Support",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Gong",
+        "description": "Revenue intelligence platform",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Clari",
+        "description": "Revenue operations platform with predictive insights",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "InsideSales",
+        "description": "AI-powered sales acceleration",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Outreach",
+        "description": "Sales engagement platform with AI",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Seismic",
+        "description": "Sales enablement platform with content intelligence",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Exceed.ai",
+        "description": "Automated lead qualification and nurturing",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Pipedrive with AI Sales Assistant",
+        "description": "CRM with AI capabilities",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Zoho CRM with Zia",
+        "description": "AI-powered sales assistant",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "HubSpot Sales Hub",
+        "description": "Sales automation and intelligence",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Salesflare",
+        "description": "Automated CRM for small businesses",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Apollo",
+        "description": "Sales intelligence and engagement platform",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "ZoomInfo",
+        "description": "B2B database and engagement platform",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Lusha",
+        "description": "B2B contact and company information platform",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Clearbit",
+        "description": "Marketing data engine for customer interactions",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "LeadIQ",
+        "description": "Prospecting and lead capture platform",
+        "department": "Sales & Revenue Generation",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "UiPath",
+        "description": "Enterprise automation platform",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Automation Anywhere",
+        "description": "Intelligent automation platform",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Blue Prism",
+        "description": "Robotic process automation",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Celonis",
+        "description": "Process mining and execution management",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "WorkFusion",
+        "description": "Intelligent automation for operations",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Zapier",
+        "description": "Workflow automation between apps",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Make (formerly Integromat)",
+        "description": "Visual automation platform",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Notion AI",
+        "description": "Workspace with AI capabilities",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Trello with AI Butler",
+        "description": "Project management with automation",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Asana with Work Intelligence",
+        "description": "Work management with AI",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "ClickUp",
+        "description": "Project management with AI features",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Monday.com",
+        "description": "Work OS with automation",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Wrike",
+        "description": "Project management and collaboration",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Teamwork",
+        "description": "Agency project management",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Productive",
+        "description": "Agency management software",
+        "department": "Operations & Productivity",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Alteryx",
+        "description": "Analytics automation platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "SAS Viya",
+        "description": "Analytics and AI platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Databricks",
+        "description": "Data analytics and AI platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Snowflake with Cortex",
+        "description": "Data cloud with AI capabilities",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "ThoughtSpot",
+        "description": "Search & AI-driven analytics",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Domo",
+        "description": "Business intelligence and data visualization",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Looker",
+        "description": "Business intelligence and big data analytics",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Zoho Analytics",
+        "description": "Self-service BI and analytics platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Sisense",
+        "description": "Analytics platform for complex data",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Qlik Sense",
+        "description": "Visual analytics platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Supermetrics",
+        "description": "Marketing data aggregation and reporting",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Funnel",
+        "description": "Marketing data collection and organization",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Whatagraph",
+        "description": "Automated marketing reports",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "AgencyAnalytics",
+        "description": "Client reporting platform",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "TapClicks",
+        "description": "Marketing analytics and reporting",
+        "department": "Data Analysis & Reporting",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Adobe Experience Manager with AI",
+        "description": "Digital asset management",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Aprimo",
+        "description": "Content operations and DAM platform",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Bynder",
+        "description": "Digital asset management with AI tagging",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Canto",
+        "description": "Digital asset management for enterprises",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "OpenText Media Management",
+        "description": "Enterprise DAM solution",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Brandfolder",
+        "description": "Digital asset management platform",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Filecamp",
+        "description": "Cloud-based DAM solution",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Pics.io",
+        "description": "Digital asset management for teams",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Widen Collective",
+        "description": "DAM and product content management",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Image Relay",
+        "description": "Digital asset management solution",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Wedia",
+        "description": "Marketing resource management",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Frontify",
+        "description": "Brand management platform",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Brandfolder",
+        "description": "Asset management for agencies and clients",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Bynder",
+        "description": "Multi-client asset management",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Wrike for Marketers",
+        "description": "Project and asset management",
+        "department": "Content & Asset Management",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "BrightEdge",
+        "description": "Enterprise SEO platform",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Conductor",
+        "description": "Enterprise SEO and content marketing",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Botify",
+        "description": "Enterprise SEO platform",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "seoClarity",
+        "description": "Enterprise SEO platform",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Searchmetrics",
+        "description": "Enterprise SEO and content marketing",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Enterprise-Level Tools",
+        "skill_level": "Advanced / Developer",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Semrush",
+        "description": "All-in-one digital marketing toolkit",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Ahrefs",
+        "description": "SEO tools and resources",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Moz Pro",
+        "description": "SEO software for search visibility",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Serpstat",
+        "description": "Growth hacking platform for SEO",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Mangools",
+        "description": "Set of SEO tools for small businesses",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "SMB-Friendly Tools",
+        "skill_level": "Intermediate / Low-code",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "SE Ranking",
+        "description": "White-label SEO platform for agencies",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "AgencyAnalytics",
+        "description": "Client SEO reporting",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Raven Tools",
+        "description": "SEO and marketing reports",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Rank Ranger",
+        "description": "SEO and marketing platform",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    },
+    {
+        "name": "Authoritas",
+        "description": "Enterprise SEO for agencies and clients",
+        "department": "SEO & Digital Marketing",
+        "tool_type_from_pdf": "Marketing Agency Tools",
+        "skill_level": "Unknown",
+        "website": "",
+        "pricing": "",
+        "key_features": []
+    }
+]

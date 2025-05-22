@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tools Directory</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Innerstand Logo" class="logo">
+        <h1><span class="gradient-text">AI Tools Directory</span> for Creators & Brands</h1>
+    </header>
+
+    <section id="email-capture-section">
+        <h2>Access the Directory</h2>
+        <p><strong>Looking for the Right AI Tools for Your Business?</strong></p>
+        <p>Navigate the complex world of AI with confidence. Our expertly curated directory features 120+ proven tools organized by department and skill level - helping you find exactly what you need in seconds, not hours.</p>
+        <p>Enter your details below to unlock immediate access and join forward-thinking professionals already leveraging these powerful tools.</p>
+        <form id="email-form">
+            <div>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div>
+                <label for="company">Company Name (Optional):</label>
+                <input type="text" id="company" name="company">
+            </div>
+            <button type="submit">Unlock Directory</button>
+        </form>
+        <div id="message"></div>
+    </section>
+
+    <main id="directory-section" class="hidden">
+        <aside id="filters">
+            <h2>Filter Tools</h2>
+            <div>
+                <label for="search-bar">Search by Name/Description:</label>
+                <input type="text" id="search-bar" placeholder="Search tools...">
+            </div>
+            <div>
+                <label for="department-filter">Filter by Department:</label>
+                <select id="department-filter">
+                    <option value="all">All Departments</option>
+                    <!-- Department options will be populated by JavaScript -->
+                </select>
+            </div>
+            <div>
+                <label for="skill-level-filter">Filter by Skill Level:</label>
+                <select id="skill-level-filter">
+                    <option value="all">All Skill Levels</option>
+                    <option value="Beginner / No-code">Beginner / No-code</option>
+                    <option value="Intermediate / Low-code">Intermediate / Low-code</option>
+                    <option value="Advanced / Developer">Advanced / Developer</option>
+                </select>
+            </div>
+        </aside>
+
+        <section id="tools-grid">
+            <!-- AI tools will be populated here by JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Innerstand. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
